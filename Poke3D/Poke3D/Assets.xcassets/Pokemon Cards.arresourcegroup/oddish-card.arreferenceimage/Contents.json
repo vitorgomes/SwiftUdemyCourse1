@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "BUS_004_H_EN.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 65
+  }
+}
